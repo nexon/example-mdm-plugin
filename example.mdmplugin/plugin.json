@@ -1,0 +1,23 @@
+{
+     "name" : "Plugin Name 0",
+     "service_name" : "Mega",
+     "author": "Alberto Lagos Toro",
+     "email": "alberto.lagos@mdmapp.com",
+     "description": "First Plugin Running!",
+     "version":"0.1",
+     "domains": 
+     [
+     	"mdmapp.com",
+     	"nosze.com",
+     	"mega.co.nz",
+     	"rapidshare.com"
+     ],
+     "require":[
+          "require_files/ClassOne",
+          "require_files/ClassTwo",
+          "require_files/ClassThree",
+          "require_files/ClassFour"
+     ],
+     "account": "ServerAccount", 
+     "server" : "Hoster"
+ }

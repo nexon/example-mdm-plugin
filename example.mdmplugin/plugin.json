@@ -1,5 +1,7 @@
 {
      "name" : "Plugin Name 0",
+     "type"  : "wharevah",
+     "identifier" : "Official Mediafire Plugin",
      "service_name" : "Mega",
      "author": "Alberto Lagos Toro",
      "email": "alberto.lagos@mdmapp.com",

@@ -1,0 +1,19 @@
+{
+     "name" : "Plugin Name 0",
+     "type"  : "wharevah",
+     "identifier" : "Official Uploaded.to Plugin",
+     "service_name" : "Mega",
+     "author": "Sergio Ramos",
+     "email": "alberto.lagos@mdmapp.com",
+     "description": "Second Plugin Running!",
+     "version":"0.1",
+     "domains": 
+     [
+     	"mdmapp.com",
+     	"nosze.com",
+     	"mega.co.nz",
+     	"rapidshare.com"
+     ],
+     "account":"", 
+     "server" : "MegaUploadServerClass"
+ }

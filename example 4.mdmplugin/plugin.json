@@ -1,0 +1,16 @@
+{
+     "name" : "Plugin Name 3",
+     "author": "Alberto Lagos Toro",
+     "email": "alberto.lagos@mdmapp.com",
+     "description": "hello!!!",
+     "version":"0.1",
+     "domains": 
+     [
+     	"mdmapp.com",
+     	"nosze.com",
+     	"mega.co.nz",
+     	"rapidshare.com"
+     ],
+     "account_class":"MegaUploadAccountClass", 
+     "server_class" : "MegaUploadServerClass"
+ }

@@ -1,0 +1,12 @@
+{
+    "identifier" : "Mediafire Official Plugin",
+    "author": "Alberto Lagos Toro",
+    "email": "alberto.lagos@mdmapp.com",
+    "description": "First Plugin Running!",
+    "version":"0.1",
+    "type": "Storage",
+    "service": "Mediafire",
+    "domains": [
+        "mediafire.com"
+    ]
+}
